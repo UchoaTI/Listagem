@@ -1,0 +1,15 @@
+.footer{
+    position: fixed;
+    bottom:0;
+
+    display: flex;
+    padding-left: 1500px;
+    padding-bottom: 8px;
+    font-family: Roboto;
+    font-size: 1rem;
+
+    background-color:rgb(231, 231, 231);
+}
+
+
+

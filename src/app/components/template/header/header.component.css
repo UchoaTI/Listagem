@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    align-items: center;
+
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(131, 131, 131);
+}
+
+.header .logo {
+    padding-left: 10px;
+    padding-top:10px;
+    padding-bottom:14px;
+    max-height: 50px;
+}
+.header .title-group{
+    padding-left:44px;
+    font-family: 'Roboto';
+    font-size: 22px;
+    color: #a6a6a6;
+
+}
+
+.header .title-group i {
+    padding-right: 5px;
+}
